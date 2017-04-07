@@ -1,236 +1,236 @@
 <svg height="3726" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="3726" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-07 12:32:41 +0000   940104 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-07 12:32:41 +0000    21872 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-07 12:32:41 +0000     7370 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-07 12:32:41 +0000     8880 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-07 12:32:41 +0000    34815 bytes  HISTORY.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-07 12:32:41 +0000     1077 bytes  LICENSE</tspan>
-<tspan x="10" y="122">  6.  2017-04-07 12:32:41 +0000     6959 bytes  README.md</tspan>
-<tspan x="10" y="138">  7.  2017-04-07 12:32:41 +0000      532 bytes  bin/socketstream</tspan>
-<tspan x="10" y="154">  8.  2017-04-07 12:32:41 +0000      765 bytes  express.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-07 12:32:41 +0000      478 bytes  gulp.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-07 12:32:41 +0000      141 bytes  index.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-07 12:32:41 +0000     8721 bytes  lib/cli/generate.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-07 12:32:41 +0000      576 bytes  lib/cli/index.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-07 12:32:41 +0000     7778 bytes  lib/client/bundler/browserify.client.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-07 12:32:41 +0000     3036 bytes  lib/client/bundler/default.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-07 12:32:41 +0000    19828 bytes  lib/client/bundler/index.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-07 12:32:41 +0000     2177 bytes  lib/client/bundler/production.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-07 12:32:41 +0000    12807 bytes  lib/client/bundler/proto.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-07 12:32:41 +0000     2186 bytes  lib/client/formatters.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-07 12:32:41 +0000      397 bytes  lib/client/formatters/css.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-07 12:32:41 +0000      672 bytes  lib/client/formatters/html.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-07 12:32:41 +0000     1055 bytes  lib/client/formatters/jade.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-07 12:32:41 +0000      416 bytes  lib/client/formatters/javascript.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-07 12:32:41 +0000     2697 bytes  lib/client/formatters/less.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-07 12:32:41 +0000      455 bytes  lib/client/formatters/map.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-07 12:32:41 +0000     1114 bytes  lib/client/formatters/sass.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-07 12:32:41 +0000    12278 bytes  lib/client/index.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-07 12:32:41 +0000     3244 bytes  lib/client/system/index.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-07 12:32:41 +0000    11885 bytes  lib/client/system/modules/eventemitter2.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-07 12:32:41 +0000     4005 bytes  lib/client/system/modules/socketstream.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-07 12:32:41 +0000     7430 bytes  lib/client/template_engine.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-07 12:32:41 +0000      401 bytes  lib/client/template_engines/angular.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-07 12:32:41 +0000      479 bytes  lib/client/template_engines/default.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-07 12:32:41 +0000      379 bytes  lib/client/template_engines/ember.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-07 12:32:41 +0000     1471 bytes  lib/client/view.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-07 12:32:41 +0000     4105 bytes  lib/http/cached.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-07 12:32:41 +0000     3885 bytes  lib/http/index.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-07 12:32:41 +0000     3602 bytes  lib/publish/index.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-07 12:32:41 +0000     1097 bytes  lib/publish/transport.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-07 12:32:41 +0000      378 bytes  lib/publish/transports/internal.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-07 12:32:41 +0000      993 bytes  lib/publish/transports/redis.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-07 12:32:41 +0000     1868 bytes  lib/request/index.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-07 12:32:41 +0000      725 bytes  lib/request/middleware/index.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-07 12:32:41 +0000     1327 bytes  lib/request/middleware/internal.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-07 12:32:41 +0000     1037 bytes  lib/request/responders/events/client.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-07 12:32:41 +0000     1026 bytes  lib/request/responders/events/index.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-07 12:32:41 +0000     1422 bytes  lib/request/responders/rpc/client.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-07 12:32:41 +0000     3430 bytes  lib/request/responders/rpc/index.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-07 12:32:41 +0000     4147 bytes  lib/request/responders/rpc/request.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-07 12:32:41 +0000     2257 bytes  lib/session/channels.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-07 12:32:41 +0000     2104 bytes  lib/session/cookie.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-07 12:32:41 +0000     4870 bytes  lib/session/index.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-07 12:32:41 +0000     3772 bytes  lib/session/memory.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-07 12:32:41 +0000     2566 bytes  lib/session/session.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-07 12:32:41 +0000     1947 bytes  lib/session/store.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-07 12:32:41 +0000     7136 bytes  lib/socketstream.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-07 12:32:41 +0000     5776 bytes  lib/tasks/defaults.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-07 12:32:41 +0000     2846 bytes  lib/tasks/index.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-07 12:32:41 +0000     1315 bytes  lib/tasks/live_reload.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-07 12:32:41 +0000     4550 bytes  lib/utils/file.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-07 12:32:41 +0000     3099 bytes  lib/utils/log.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-07 12:32:41 +0000     2202 bytes  lib/utils/misc.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-07 12:32:41 +0000     4045 bytes  lib/utils/require.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-07 12:32:41 +0000     2730 bytes  lib/utils/unique_set.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-07 12:32:41 +0000     1637 bytes  lib/websocket/event_dispatcher.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-07 12:32:41 +0000     1653 bytes  lib/websocket/index.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-07 12:32:41 +0000      318 bytes  lib/websocket/subscriptions.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-07 12:32:41 +0000     1156 bytes  lib/websocket/transport.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-07 12:32:41 +0000     5415 bytes  lib/websocket/transports/engineio/index.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-07 12:32:41 +0000     3582 bytes  lib/websocket/transports/engineio/wrapper.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-07 12:32:41 +0000     5025 bytes  lib/websocket/transports/sockjs/index.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-07 12:32:41 +0000    58550 bytes  lib/websocket/transports/sockjs/lib-1.0.min.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-07 12:32:41 +0000     3042 bytes  lib/websocket/transports/sockjs/wrapper.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-07 12:32:41 +0000      846 bytes  misc/changelog.tpl.md</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-07 12:32:41 +0000     2737 bytes  misc/validate-commit-msg.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-07 12:32:41 +0000       34 bytes  new_project/README.md</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-07 12:32:41 +0000     1276 bytes  new_project/client/code/app/app.demo.coffee</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-07 12:32:41 +0000     1483 bytes  new_project/client/code/app/app.demo.js</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-07 12:32:41 +0000       40 bytes  new_project/client/code/app/app.minimal.coffee</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-07 12:32:41 +0000       56 bytes  new_project/client/code/app/app.minimal.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-07 12:32:41 +0000      436 bytes  new_project/client/code/app/entry.coffee</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-07 12:32:41 +0000      514 bytes  new_project/client/code/app/entry.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-07 12:32:41 +0000    92556 bytes  new_project/client/code/libs/jquery.min.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-07 12:32:41 +0000     1243 bytes  new_project/client/css/app.demo.css</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-07 12:32:41 +0000     1312 bytes  new_project/client/css/app.demo.less</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-07 12:32:41 +0000     1224 bytes  new_project/client/css/app.demo.styl</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-07 12:32:41 +0000       97 bytes  new_project/client/css/app.minimal.css</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-07 12:32:41 +0000       98 bytes  new_project/client/css/app.minimal.less</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-07 12:32:41 +0000       88 bytes  new_project/client/css/app.minimal.styl</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-07 12:32:41 +0000     1106 bytes  new_project/client/css/libs/reset.css</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-07 12:32:41 +0000     1150 bytes  new_project/client/static/favicon.ico</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-07 12:32:41 +0000    29202 bytes  new_project/client/static/images/logo.png</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-07 12:32:41 +0000       89 bytes  new_project/client/templates/chat/message.html</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-07 12:32:41 +0000       49 bytes  new_project/client/templates/chat/message.jade</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-07 12:32:41 +0000      701 bytes  new_project/client/views/app.demo.html</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-07 12:32:41 +0000      568 bytes  new_project/client/views/app.demo.jade</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-07 12:32:41 +0000      198 bytes  new_project/client/views/app.minimal.html</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-07 12:32:41 +0000      146 bytes  new_project/client/views/app.minimal.jade</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-07 12:32:41 +0000      262 bytes  new_project/node_monitor_ignore_file</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-07 12:32:41 +0000       77 bytes  new_project/scm_ignore_file</tspan>
-<tspan x="10" y="1626">100.  2017-04-07 12:32:41 +0000      227 bytes  new_project/server/middleware/example.coffee</tspan>
-<tspan x="10" y="1642">101.  2017-04-07 12:32:41 +0000      313 bytes  new_project/server/middleware/example.js</tspan>
-<tspan x="10" y="1658">102.  2017-04-07 12:32:41 +0000      692 bytes  new_project/server/rpc/demo.coffee</tspan>
-<tspan x="10" y="1674">103.  2017-04-07 12:32:41 +0000      791 bytes  new_project/server/rpc/demo.js</tspan>
-<tspan x="10" y="1690">104.  2017-04-07 12:32:41 +0000     4829 bytes  package.json</tspan>
-<tspan x="10" y="1706">105.  2017-04-07 12:32:41 +0000       72 bytes  test/e2e/readme.md</tspan>
-<tspan x="10" y="1722">106.  2017-04-07 12:32:41 +0000       21 bytes  test/fixtures/files/foo/template2.html</tspan>
-<tspan x="10" y="1738">107.  2017-04-07 12:32:41 +0000        0 bytes  test/fixtures/files/random.js</tspan>
-<tspan x="10" y="1754">108.  2017-04-07 12:32:41 +0000       26 bytes  test/fixtures/files/template.const</tspan>
-<tspan x="10" y="1770">109.  2017-04-07 12:32:41 +0000       25 bytes  test/fixtures/files/template.foo</tspan>
-<tspan x="10" y="1786">110.  2017-04-07 12:32:41 +0000       21 bytes  test/fixtures/files/template.html</tspan>
-<tspan x="10" y="1802">111.  2017-04-07 12:32:41 +0000        0 bytes  test/fixtures/files/view.html</tspan>
-<tspan x="10" y="1818">112.  2017-04-07 12:32:41 +0000        0 bytes  test/fixtures/files/view.jade</tspan>
-<tspan x="10" y="1834">113.  2017-04-07 12:32:41 +0000      372 bytes  test/fixtures/helpers/function.js</tspan>
-<tspan x="10" y="1850">114.  2017-04-07 12:32:41 +0000     1583 bytes  test/fixtures/index.js</tspan>
-<tspan x="10" y="1866">115.  2017-04-07 12:32:41 +0000       34 bytes  test/fixtures/project/README</tspan>
-<tspan x="10" y="1882">116.  2017-04-07 12:32:41 +0000      886 bytes  test/fixtures/project/app.js</tspan>
-<tspan x="10" y="1898">117.  2017-04-07 12:32:41 +0000       71 bytes  test/fixtures/project/client/abc/abc.html</tspan>
-<tspan x="10" y="1914">118.  2017-04-07 12:32:41 +0000    10788 bytes  test/fixtures/project/client/abc/empty-expected.\</tspan>
+<tspan x="10" y="26">  0.  2017-04-07 12:34:20 +0000   940104 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-07 12:34:20 +0000    21872 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-07 12:34:20 +0000     7370 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-07 12:34:20 +0000     8880 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-07 12:34:20 +0000    34815 bytes  HISTORY.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-07 12:34:20 +0000     1077 bytes  LICENSE</tspan>
+<tspan x="10" y="122">  6.  2017-04-07 12:34:20 +0000     6959 bytes  README.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-07 12:34:20 +0000      532 bytes  bin/socketstream</tspan>
+<tspan x="10" y="154">  8.  2017-04-07 12:34:20 +0000      765 bytes  express.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-07 12:34:20 +0000      478 bytes  gulp.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-07 12:34:20 +0000      141 bytes  index.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-07 12:34:20 +0000     8721 bytes  lib/cli/generate.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-07 12:34:20 +0000      576 bytes  lib/cli/index.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-07 12:34:20 +0000     7778 bytes  lib/client/bundler/browserify.client.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-07 12:34:20 +0000     3036 bytes  lib/client/bundler/default.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-07 12:34:20 +0000    19828 bytes  lib/client/bundler/index.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-07 12:34:20 +0000     2177 bytes  lib/client/bundler/production.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-07 12:34:20 +0000    12807 bytes  lib/client/bundler/proto.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-07 12:34:20 +0000     2186 bytes  lib/client/formatters.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-07 12:34:20 +0000      397 bytes  lib/client/formatters/css.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-07 12:34:20 +0000      672 bytes  lib/client/formatters/html.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-07 12:34:20 +0000     1055 bytes  lib/client/formatters/jade.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-07 12:34:20 +0000      416 bytes  lib/client/formatters/javascript.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-07 12:34:20 +0000     2697 bytes  lib/client/formatters/less.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-07 12:34:20 +0000      455 bytes  lib/client/formatters/map.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-07 12:34:20 +0000     1114 bytes  lib/client/formatters/sass.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-07 12:34:20 +0000    12278 bytes  lib/client/index.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-07 12:34:20 +0000     3244 bytes  lib/client/system/index.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-07 12:34:20 +0000    11885 bytes  lib/client/system/modules/eventemitter2.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-07 12:34:20 +0000     4005 bytes  lib/client/system/modules/socketstream.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-07 12:34:20 +0000     7430 bytes  lib/client/template_engine.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-07 12:34:20 +0000      401 bytes  lib/client/template_engines/angular.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-07 12:34:20 +0000      479 bytes  lib/client/template_engines/default.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-07 12:34:20 +0000      379 bytes  lib/client/template_engines/ember.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-07 12:34:20 +0000     1471 bytes  lib/client/view.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-07 12:34:20 +0000     4105 bytes  lib/http/cached.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-07 12:34:20 +0000     3885 bytes  lib/http/index.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-07 12:34:20 +0000     3602 bytes  lib/publish/index.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-07 12:34:20 +0000     1097 bytes  lib/publish/transport.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-07 12:34:20 +0000      378 bytes  lib/publish/transports/internal.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-07 12:34:20 +0000      993 bytes  lib/publish/transports/redis.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-07 12:34:20 +0000     1868 bytes  lib/request/index.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-07 12:34:20 +0000      725 bytes  lib/request/middleware/index.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-07 12:34:20 +0000     1327 bytes  lib/request/middleware/internal.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-07 12:34:20 +0000     1037 bytes  lib/request/responders/events/client.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-07 12:34:20 +0000     1026 bytes  lib/request/responders/events/index.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-07 12:34:20 +0000     1422 bytes  lib/request/responders/rpc/client.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-07 12:34:20 +0000     3430 bytes  lib/request/responders/rpc/index.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-07 12:34:20 +0000     4147 bytes  lib/request/responders/rpc/request.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-07 12:34:20 +0000     2257 bytes  lib/session/channels.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-07 12:34:20 +0000     2104 bytes  lib/session/cookie.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-07 12:34:20 +0000     4870 bytes  lib/session/index.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-07 12:34:20 +0000     3772 bytes  lib/session/memory.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-07 12:34:20 +0000     2566 bytes  lib/session/session.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-07 12:34:20 +0000     1947 bytes  lib/session/store.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-07 12:34:20 +0000     7136 bytes  lib/socketstream.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-07 12:34:20 +0000     5776 bytes  lib/tasks/defaults.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-07 12:34:20 +0000     2846 bytes  lib/tasks/index.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-07 12:34:20 +0000     1315 bytes  lib/tasks/live_reload.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-07 12:34:20 +0000     4550 bytes  lib/utils/file.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-07 12:34:20 +0000     3099 bytes  lib/utils/log.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-07 12:34:20 +0000     2202 bytes  lib/utils/misc.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-07 12:34:20 +0000     4045 bytes  lib/utils/require.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-07 12:34:20 +0000     2730 bytes  lib/utils/unique_set.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-07 12:34:20 +0000     1637 bytes  lib/websocket/event_dispatcher.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-07 12:34:20 +0000     1653 bytes  lib/websocket/index.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-07 12:34:20 +0000      318 bytes  lib/websocket/subscriptions.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-07 12:34:20 +0000     1156 bytes  lib/websocket/transport.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-07 12:34:20 +0000     5415 bytes  lib/websocket/transports/engineio/index.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-07 12:34:20 +0000     3582 bytes  lib/websocket/transports/engineio/wrapper.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-07 12:34:20 +0000     5025 bytes  lib/websocket/transports/sockjs/index.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-07 12:34:20 +0000    58550 bytes  lib/websocket/transports/sockjs/lib-1.0.min.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-07 12:34:20 +0000     3042 bytes  lib/websocket/transports/sockjs/wrapper.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-07 12:34:20 +0000      846 bytes  misc/changelog.tpl.md</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-07 12:34:20 +0000     2737 bytes  misc/validate-commit-msg.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-07 12:34:20 +0000       34 bytes  new_project/README.md</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-07 12:34:20 +0000     1276 bytes  new_project/client/code/app/app.demo.coffee</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-07 12:34:20 +0000     1483 bytes  new_project/client/code/app/app.demo.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-07 12:34:20 +0000       40 bytes  new_project/client/code/app/app.minimal.coffee</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-07 12:34:20 +0000       56 bytes  new_project/client/code/app/app.minimal.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-07 12:34:20 +0000      436 bytes  new_project/client/code/app/entry.coffee</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-07 12:34:20 +0000      514 bytes  new_project/client/code/app/entry.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-07 12:34:20 +0000    92556 bytes  new_project/client/code/libs/jquery.min.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-07 12:34:20 +0000     1243 bytes  new_project/client/css/app.demo.css</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-07 12:34:20 +0000     1312 bytes  new_project/client/css/app.demo.less</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-07 12:34:20 +0000     1224 bytes  new_project/client/css/app.demo.styl</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-07 12:34:20 +0000       97 bytes  new_project/client/css/app.minimal.css</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-07 12:34:20 +0000       98 bytes  new_project/client/css/app.minimal.less</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-07 12:34:20 +0000       88 bytes  new_project/client/css/app.minimal.styl</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-07 12:34:20 +0000     1106 bytes  new_project/client/css/libs/reset.css</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-07 12:34:20 +0000     1150 bytes  new_project/client/static/favicon.ico</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-07 12:34:20 +0000    29202 bytes  new_project/client/static/images/logo.png</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-07 12:34:20 +0000       89 bytes  new_project/client/templates/chat/message.html</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-07 12:34:20 +0000       49 bytes  new_project/client/templates/chat/message.jade</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-07 12:34:20 +0000      701 bytes  new_project/client/views/app.demo.html</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-07 12:34:20 +0000      568 bytes  new_project/client/views/app.demo.jade</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-07 12:34:20 +0000      198 bytes  new_project/client/views/app.minimal.html</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-07 12:34:20 +0000      146 bytes  new_project/client/views/app.minimal.jade</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-07 12:34:20 +0000      262 bytes  new_project/node_monitor_ignore_file</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-07 12:34:20 +0000       77 bytes  new_project/scm_ignore_file</tspan>
+<tspan x="10" y="1626">100.  2017-04-07 12:34:20 +0000      227 bytes  new_project/server/middleware/example.coffee</tspan>
+<tspan x="10" y="1642">101.  2017-04-07 12:34:20 +0000      313 bytes  new_project/server/middleware/example.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-07 12:34:20 +0000      692 bytes  new_project/server/rpc/demo.coffee</tspan>
+<tspan x="10" y="1674">103.  2017-04-07 12:34:20 +0000      791 bytes  new_project/server/rpc/demo.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-07 12:34:20 +0000     4829 bytes  package.json</tspan>
+<tspan x="10" y="1706">105.  2017-04-07 12:34:20 +0000       72 bytes  test/e2e/readme.md</tspan>
+<tspan x="10" y="1722">106.  2017-04-07 12:34:20 +0000       21 bytes  test/fixtures/files/foo/template2.html</tspan>
+<tspan x="10" y="1738">107.  2017-04-07 12:34:20 +0000        0 bytes  test/fixtures/files/random.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-07 12:34:20 +0000       26 bytes  test/fixtures/files/template.const</tspan>
+<tspan x="10" y="1770">109.  2017-04-07 12:34:20 +0000       25 bytes  test/fixtures/files/template.foo</tspan>
+<tspan x="10" y="1786">110.  2017-04-07 12:34:20 +0000       21 bytes  test/fixtures/files/template.html</tspan>
+<tspan x="10" y="1802">111.  2017-04-07 12:34:20 +0000        0 bytes  test/fixtures/files/view.html</tspan>
+<tspan x="10" y="1818">112.  2017-04-07 12:34:20 +0000        0 bytes  test/fixtures/files/view.jade</tspan>
+<tspan x="10" y="1834">113.  2017-04-07 12:34:20 +0000      372 bytes  test/fixtures/helpers/function.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-07 12:34:20 +0000     1583 bytes  test/fixtures/index.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-07 12:34:20 +0000       34 bytes  test/fixtures/project/README</tspan>
+<tspan x="10" y="1882">116.  2017-04-07 12:34:20 +0000      886 bytes  test/fixtures/project/app.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-07 12:34:20 +0000       71 bytes  test/fixtures/project/client/abc/abc.html</tspan>
+<tspan x="10" y="1914">118.  2017-04-07 12:34:20 +0000    10788 bytes  test/fixtures/project/client/abc/empty-expected.\</tspan>
 <tspan x="10" y="1930">min.js</tspan>
-<tspan x="10" y="1946">119.  2017-04-07 12:32:41 +0000      125 bytes  test/fixtures/project/client/abc/expected-with-a\</tspan>
+<tspan x="10" y="1946">119.  2017-04-07 12:34:20 +0000      125 bytes  test/fixtures/project/client/abc/expected-with-a\</tspan>
 <tspan x="10" y="1962">bc-constants.html</tspan>
-<tspan x="10" y="1978">120.  2017-04-07 12:32:41 +0000      155 bytes  test/fixtures/project/client/abc/expected.html</tspan>
-<tspan x="10" y="1994">121.  2017-04-07 12:32:41 +0000    10634 bytes  test/fixtures/project/client/abc/expected.min.js</tspan>
-<tspan x="10" y="2010">122.  2017-04-07 12:32:41 +0000       12 bytes  test/fixtures/project/client/abc/index.a</tspan>
-<tspan x="10" y="2026">123.  2017-04-07 12:32:41 +0000        8 bytes  test/fixtures/project/client/abc/index.js</tspan>
-<tspan x="10" y="2042">124.  2017-04-07 12:32:41 +0000       86 bytes  test/fixtures/project/client/abc/ss.html</tspan>
-<tspan x="10" y="2058">125.  2017-04-07 12:32:41 +0000       34 bytes  test/fixtures/project/client/abc/style.css</tspan>
-<tspan x="10" y="2074">126.  2017-04-07 12:32:41 +0000       12 bytes  test/fixtures/project/client/code/extras/e1.js</tspan>
-<tspan x="10" y="2090">127.  2017-04-07 12:32:41 +0000       12 bytes  test/fixtures/project/client/code/extras/e2.js</tspan>
-<tspan x="10" y="2106">128.  2017-04-07 12:32:41 +0000       18 bytes  test/fixtures/project/client/code/kickoff/entry.\</tspan>
+<tspan x="10" y="1978">120.  2017-04-07 12:34:20 +0000      155 bytes  test/fixtures/project/client/abc/expected.html</tspan>
+<tspan x="10" y="1994">121.  2017-04-07 12:34:20 +0000    10634 bytes  test/fixtures/project/client/abc/expected.min.js</tspan>
+<tspan x="10" y="2010">122.  2017-04-07 12:34:20 +0000       12 bytes  test/fixtures/project/client/abc/index.a</tspan>
+<tspan x="10" y="2026">123.  2017-04-07 12:34:20 +0000        8 bytes  test/fixtures/project/client/abc/index.js</tspan>
+<tspan x="10" y="2042">124.  2017-04-07 12:34:20 +0000       86 bytes  test/fixtures/project/client/abc/ss.html</tspan>
+<tspan x="10" y="2058">125.  2017-04-07 12:34:20 +0000       34 bytes  test/fixtures/project/client/abc/style.css</tspan>
+<tspan x="10" y="2074">126.  2017-04-07 12:34:20 +0000       12 bytes  test/fixtures/project/client/code/extras/e1.js</tspan>
+<tspan x="10" y="2090">127.  2017-04-07 12:34:20 +0000       12 bytes  test/fixtures/project/client/code/extras/e2.js</tspan>
+<tspan x="10" y="2106">128.  2017-04-07 12:34:20 +0000       18 bytes  test/fixtures/project/client/code/kickoff/entry.\</tspan>
 <tspan x="10" y="2122">js</tspan>
-<tspan x="10" y="2138">129.  2017-04-07 12:32:41 +0000     6321 bytes  test/fixtures/project/client/code/libs/hogan-tem\</tspan>
+<tspan x="10" y="2138">129.  2017-04-07 12:34:20 +0000     6321 bytes  test/fixtures/project/client/code/libs/hogan-tem\</tspan>
 <tspan x="10" y="2154">plate.js</tspan>
-<tspan x="10" y="2170">130.  2017-04-07 12:32:41 +0000    94019 bytes  test/fixtures/project/client/code/libs/jquery.mi\</tspan>
+<tspan x="10" y="2170">130.  2017-04-07 12:34:20 +0000    94019 bytes  test/fixtures/project/client/code/libs/jquery.mi\</tspan>
 <tspan x="10" y="2186">n.js</tspan>
-<tspan x="10" y="2202">131.  2017-04-07 12:32:41 +0000        8 bytes  test/fixtures/project/client/code/main.js</tspan>
-<tspan x="10" y="2218">132.  2017-04-07 12:32:41 +0000     1393 bytes  test/fixtures/project/client/code/main/demo.coff\</tspan>
+<tspan x="10" y="2202">131.  2017-04-07 12:34:20 +0000        8 bytes  test/fixtures/project/client/code/main.js</tspan>
+<tspan x="10" y="2218">132.  2017-04-07 12:34:20 +0000     1393 bytes  test/fixtures/project/client/code/main/demo.coff\</tspan>
 <tspan x="10" y="2234">ee</tspan>
-<tspan x="10" y="2250">133.  2017-04-07 12:32:41 +0000      221 bytes  test/fixtures/project/client/code/modules/messag\</tspan>
+<tspan x="10" y="2250">133.  2017-04-07 12:34:20 +0000      221 bytes  test/fixtures/project/client/code/modules/messag\</tspan>
 <tspan x="10" y="2266">e.coffee</tspan>
-<tspan x="10" y="2282">134.  2017-04-07 12:32:41 +0000      800 bytes  test/fixtures/project/client/css/demo.styl</tspan>
-<tspan x="10" y="2298">135.  2017-04-07 12:32:41 +0000      502 bytes  test/fixtures/project/client/css/helpers.styl</tspan>
-<tspan x="10" y="2314">136.  2017-04-07 12:32:41 +0000     1106 bytes  test/fixtures/project/client/css/libs/reset.css</tspan>
-<tspan x="10" y="2330">137.  2017-04-07 12:32:41 +0000      349 bytes  test/fixtures/project/client/css/main.styl</tspan>
-<tspan x="10" y="2346">138.  2017-04-07 12:32:41 +0000       32 bytes  test/fixtures/project/client/static/assets/info.\</tspan>
+<tspan x="10" y="2282">134.  2017-04-07 12:34:20 +0000      800 bytes  test/fixtures/project/client/css/demo.styl</tspan>
+<tspan x="10" y="2298">135.  2017-04-07 12:34:20 +0000      502 bytes  test/fixtures/project/client/css/helpers.styl</tspan>
+<tspan x="10" y="2314">136.  2017-04-07 12:34:20 +0000     1106 bytes  test/fixtures/project/client/css/libs/reset.css</tspan>
+<tspan x="10" y="2330">137.  2017-04-07 12:34:20 +0000      349 bytes  test/fixtures/project/client/css/main.styl</tspan>
+<tspan x="10" y="2346">138.  2017-04-07 12:34:20 +0000       32 bytes  test/fixtures/project/client/static/assets/info.\</tspan>
 <tspan x="10" y="2362">txt</tspan>
-<tspan x="10" y="2378">139.  2017-04-07 12:32:41 +0000     1150 bytes  test/fixtures/project/client/static/favicon.ico</tspan>
-<tspan x="10" y="2394">140.  2017-04-07 12:32:41 +0000    70284 bytes  test/fixtures/project/client/static/images/admin\</tspan>
+<tspan x="10" y="2378">139.  2017-04-07 12:34:20 +0000     1150 bytes  test/fixtures/project/client/static/favicon.ico</tspan>
+<tspan x="10" y="2394">140.  2017-04-07 12:34:20 +0000    70284 bytes  test/fixtures/project/client/static/images/admin\</tspan>
 <tspan x="10" y="2410">.jpg</tspan>
-<tspan x="10" y="2426">141.  2017-04-07 12:32:41 +0000    82951 bytes  test/fixtures/project/client/static/images/logo.\</tspan>
+<tspan x="10" y="2426">141.  2017-04-07 12:34:20 +0000    82951 bytes  test/fixtures/project/client/static/images/logo.\</tspan>
 <tspan x="10" y="2442">png</tspan>
-<tspan x="10" y="2458">142.  2017-04-07 12:32:41 +0000       26 bytes  test/fixtures/project/client/templates/1.html</tspan>
-<tspan x="10" y="2474">143.  2017-04-07 12:32:41 +0000       17 bytes  test/fixtures/project/client/templates/abc/1.htm\</tspan>
+<tspan x="10" y="2458">142.  2017-04-07 12:34:20 +0000       26 bytes  test/fixtures/project/client/templates/1.html</tspan>
+<tspan x="10" y="2474">143.  2017-04-07 12:34:20 +0000       17 bytes  test/fixtures/project/client/templates/abc/1.htm\</tspan>
 <tspan x="10" y="2490">l</tspan>
-<tspan x="10" y="2506">144.  2017-04-07 12:32:41 +0000       17 bytes  test/fixtures/project/client/templates/abc/2.htm\</tspan>
+<tspan x="10" y="2506">144.  2017-04-07 12:34:20 +0000       17 bytes  test/fixtures/project/client/templates/abc/2.htm\</tspan>
 <tspan x="10" y="2522">l</tspan>
-<tspan x="10" y="2538">145.  2017-04-07 12:32:41 +0000       49 bytes  test/fixtures/project/client/templates/chat/mess\</tspan>
+<tspan x="10" y="2538">145.  2017-04-07 12:34:20 +0000       49 bytes  test/fixtures/project/client/templates/chat/mess\</tspan>
 <tspan x="10" y="2554">age.jade</tspan>
-<tspan x="10" y="2570">146.  2017-04-07 12:32:41 +0000       16 bytes  test/fixtures/project/client/templates/main.html</tspan>
-<tspan x="10" y="2586">147.  2017-04-07 12:32:41 +0000       22 bytes  test/fixtures/project/client/views/1.jade</tspan>
-<tspan x="10" y="2602">148.  2017-04-07 12:32:41 +0000      561 bytes  test/fixtures/project/client/views/main.jade</tspan>
-<tspan x="10" y="2618">149.  2017-04-07 12:32:41 +0000       21 bytes  test/fixtures/project/client/views/main2.html</tspan>
-<tspan x="10" y="2634">150.  2017-04-07 12:32:41 +0000       11 bytes  test/fixtures/project/client/workers/pi.js</tspan>
-<tspan x="10" y="2650">151.  2017-04-07 12:32:41 +0000      271 bytes  test/fixtures/project/console.js</tspan>
-<tspan x="10" y="2666">152.  2017-04-07 12:32:41 +0000        0 bytes  test/fixtures/project/more/a/a.css</tspan>
-<tspan x="10" y="2682">153.  2017-04-07 12:32:41 +0000       26 bytes  test/fixtures/project/more/a/a.html</tspan>
-<tspan x="10" y="2698">154.  2017-04-07 12:32:41 +0000        0 bytes  test/fixtures/project/more/a/a.js</tspan>
-<tspan x="10" y="2714">155.  2017-04-07 12:32:41 +0000      381 bytes  test/fixtures/project/package.json</tspan>
-<tspan x="10" y="2730">156.  2017-04-07 12:32:41 +0000      314 bytes  test/fixtures/project/server/middleware/example.\</tspan>
+<tspan x="10" y="2570">146.  2017-04-07 12:34:20 +0000       16 bytes  test/fixtures/project/client/templates/main.html</tspan>
+<tspan x="10" y="2586">147.  2017-04-07 12:34:20 +0000       22 bytes  test/fixtures/project/client/views/1.jade</tspan>
+<tspan x="10" y="2602">148.  2017-04-07 12:34:20 +0000      561 bytes  test/fixtures/project/client/views/main.jade</tspan>
+<tspan x="10" y="2618">149.  2017-04-07 12:34:20 +0000       21 bytes  test/fixtures/project/client/views/main2.html</tspan>
+<tspan x="10" y="2634">150.  2017-04-07 12:34:20 +0000       11 bytes  test/fixtures/project/client/workers/pi.js</tspan>
+<tspan x="10" y="2650">151.  2017-04-07 12:34:20 +0000      271 bytes  test/fixtures/project/console.js</tspan>
+<tspan x="10" y="2666">152.  2017-04-07 12:34:20 +0000        0 bytes  test/fixtures/project/more/a/a.css</tspan>
+<tspan x="10" y="2682">153.  2017-04-07 12:34:20 +0000       26 bytes  test/fixtures/project/more/a/a.html</tspan>
+<tspan x="10" y="2698">154.  2017-04-07 12:34:20 +0000        0 bytes  test/fixtures/project/more/a/a.js</tspan>
+<tspan x="10" y="2714">155.  2017-04-07 12:34:20 +0000      381 bytes  test/fixtures/project/package.json</tspan>
+<tspan x="10" y="2730">156.  2017-04-07 12:34:20 +0000      314 bytes  test/fixtures/project/server/middleware/example.\</tspan>
 <tspan x="10" y="2746">js</tspan>
-<tspan x="10" y="2762">157.  2017-04-07 12:32:41 +0000      792 bytes  test/fixtures/project/server/rpc/demo.js</tspan>
-<tspan x="10" y="2778">158.  2017-04-07 12:32:41 +0000        0 bytes  test/fixtures/readDirSync/dir2/index.html</tspan>
-<tspan x="10" y="2794">159.  2017-04-07 12:32:41 +0000        0 bytes  test/fixtures/readDirSync/dir3/dir3.2/dir3.2.1/t\</tspan>
+<tspan x="10" y="2762">157.  2017-04-07 12:34:20 +0000      792 bytes  test/fixtures/project/server/rpc/demo.js</tspan>
+<tspan x="10" y="2778">158.  2017-04-07 12:34:20 +0000        0 bytes  test/fixtures/readDirSync/dir2/index.html</tspan>
+<tspan x="10" y="2794">159.  2017-04-07 12:34:20 +0000        0 bytes  test/fixtures/readDirSync/dir3/dir3.2/dir3.2.1/t\</tspan>
 <tspan x="10" y="2810">est.js</tspan>
-<tspan x="10" y="2826">160.  2017-04-07 12:32:41 +0000        0 bytes  test/fixtures/readDirSync/dir3/dir3.3/dir3.3.2/t\</tspan>
+<tspan x="10" y="2826">160.  2017-04-07 12:34:20 +0000        0 bytes  test/fixtures/readDirSync/dir3/dir3.3/dir3.3.2/t\</tspan>
 <tspan x="10" y="2842">est.csv</tspan>
-<tspan x="10" y="2858">161.  2017-04-07 12:32:41 +0000        0 bytes  test/fixtures/readDirSync/dir3/dir3.3/dir3.3.3/t\</tspan>
+<tspan x="10" y="2858">161.  2017-04-07 12:34:20 +0000        0 bytes  test/fixtures/readDirSync/dir3/dir3.3/dir3.3.3/t\</tspan>
 <tspan x="10" y="2874">est.sh</tspan>
-<tspan x="10" y="2890">162.  2017-04-07 12:32:41 +0000        0 bytes  test/fixtures/readDirSync/dir3/dir3.3/test.css</tspan>
-<tspan x="10" y="2906">163.  2017-04-07 12:32:41 +0000        0 bytes  test/fixtures/readDirSync/index.js</tspan>
-<tspan x="10" y="2922">164.  2017-04-07 12:32:41 +0000      509 bytes  test/fixtures/socketstream.js</tspan>
-<tspan x="10" y="2938">165.  2017-04-07 12:32:41 +0000      271 bytes  test/fixtures/stubs/formatter_const.js</tspan>
-<tspan x="10" y="2954">166.  2017-04-07 12:32:41 +0000      339 bytes  test/fixtures/stubs/formatter_html.js</tspan>
-<tspan x="10" y="2970">167.  2017-04-07 12:32:41 +0000      331 bytes  test/fixtures/stubs/template_engine.js</tspan>
-<tspan x="10" y="2986">168.  2017-04-07 12:32:41 +0000     1211 bytes  test/helpers/logHook.js</tspan>
-<tspan x="10" y="3002">169.  2017-04-07 12:32:41 +0000     1456 bytes  test/helpers/uncache.js</tspan>
-<tspan x="10" y="3018">170.  2017-04-07 12:32:41 +0000      564 bytes  test/helpers/utils.js</tspan>
-<tspan x="10" y="3034">171.  2017-04-07 12:32:41 +0000     9821 bytes  test/unit/cli/generate.test.js</tspan>
-<tspan x="10" y="3050">172.  2017-04-07 12:32:41 +0000     1615 bytes  test/unit/cli/index.test.js</tspan>
-<tspan x="10" y="3066">173.  2017-04-07 12:32:41 +0000      869 bytes  test/unit/client/abcClient.js</tspan>
-<tspan x="10" y="3082">174.  2017-04-07 12:32:41 +0000     1656 bytes  test/unit/client/asset.test.js</tspan>
-<tspan x="10" y="3098">175.  2017-04-07 12:32:41 +0000    11169 bytes  test/unit/client/bundler/browserify.test.js</tspan>
-<tspan x="10" y="3114">176.  2017-04-07 12:32:41 +0000     1355 bytes  test/unit/client/bundler/custom.test.js</tspan>
-<tspan x="10" y="3130">177.  2017-04-07 12:32:41 +0000    26861 bytes  test/unit/client/bundler/default.test.js</tspan>
-<tspan x="10" y="3146">178.  2017-04-07 12:32:41 +0000     5035 bytes  test/unit/client/bundler/index.test.js</tspan>
-<tspan x="10" y="3162">179.  2017-04-07 12:32:41 +0000      473 bytes  test/unit/client/clientIssue.test.js</tspan>
-<tspan x="10" y="3178">180.  2017-04-07 12:32:41 +0000     6513 bytes  test/unit/client/constants.test.js</tspan>
-<tspan x="10" y="3194">181.  2017-04-07 12:32:41 +0000    10962 bytes  test/unit/client/formatters.test.js</tspan>
-<tspan x="10" y="3210">182.  2017-04-07 12:32:41 +0000     1329 bytes  test/unit/client/formatters/css.test.js</tspan>
-<tspan x="10" y="3226">183.  2017-04-07 12:32:41 +0000     1613 bytes  test/unit/client/formatters/html.test.js</tspan>
-<tspan x="10" y="3242">184.  2017-04-07 12:32:41 +0000     1890 bytes  test/unit/client/formatters/javascript.test.js</tspan>
-<tspan x="10" y="3258">185.  2017-04-07 12:32:41 +0000      678 bytes  test/unit/client/http.test.js</tspan>
-<tspan x="10" y="3274">186.  2017-04-07 12:32:41 +0000    10218 bytes  test/unit/client/index.test.js</tspan>
-<tspan x="10" y="3290">187.  2017-04-07 12:32:41 +0000     2652 bytes  test/unit/client/live_reload.test.js</tspan>
-<tspan x="10" y="3306">188.  2017-04-07 12:32:41 +0000     6743 bytes  test/unit/client/pack.test.js</tspan>
-<tspan x="10" y="3322">189.  2017-04-07 12:32:41 +0000      258 bytes  test/unit/client/servePacked.test.js</tspan>
-<tspan x="10" y="3338">190.  2017-04-07 12:32:41 +0000     3352 bytes  test/unit/client/system/index.test.js</tspan>
-<tspan x="10" y="3354">191.  2017-04-07 12:32:41 +0000     3209 bytes  test/unit/client/system/modules/socketstream.tes\</tspan>
+<tspan x="10" y="2890">162.  2017-04-07 12:34:20 +0000        0 bytes  test/fixtures/readDirSync/dir3/dir3.3/test.css</tspan>
+<tspan x="10" y="2906">163.  2017-04-07 12:34:20 +0000        0 bytes  test/fixtures/readDirSync/index.js</tspan>
+<tspan x="10" y="2922">164.  2017-04-07 12:34:20 +0000      509 bytes  test/fixtures/socketstream.js</tspan>
+<tspan x="10" y="2938">165.  2017-04-07 12:34:20 +0000      271 bytes  test/fixtures/stubs/formatter_const.js</tspan>
+<tspan x="10" y="2954">166.  2017-04-07 12:34:20 +0000      339 bytes  test/fixtures/stubs/formatter_html.js</tspan>
+<tspan x="10" y="2970">167.  2017-04-07 12:34:20 +0000      331 bytes  test/fixtures/stubs/template_engine.js</tspan>
+<tspan x="10" y="2986">168.  2017-04-07 12:34:20 +0000     1211 bytes  test/helpers/logHook.js</tspan>
+<tspan x="10" y="3002">169.  2017-04-07 12:34:20 +0000     1456 bytes  test/helpers/uncache.js</tspan>
+<tspan x="10" y="3018">170.  2017-04-07 12:34:20 +0000      564 bytes  test/helpers/utils.js</tspan>
+<tspan x="10" y="3034">171.  2017-04-07 12:34:20 +0000     9821 bytes  test/unit/cli/generate.test.js</tspan>
+<tspan x="10" y="3050">172.  2017-04-07 12:34:20 +0000     1615 bytes  test/unit/cli/index.test.js</tspan>
+<tspan x="10" y="3066">173.  2017-04-07 12:34:20 +0000      869 bytes  test/unit/client/abcClient.js</tspan>
+<tspan x="10" y="3082">174.  2017-04-07 12:34:20 +0000     1656 bytes  test/unit/client/asset.test.js</tspan>
+<tspan x="10" y="3098">175.  2017-04-07 12:34:20 +0000    11169 bytes  test/unit/client/bundler/browserify.test.js</tspan>
+<tspan x="10" y="3114">176.  2017-04-07 12:34:20 +0000     1355 bytes  test/unit/client/bundler/custom.test.js</tspan>
+<tspan x="10" y="3130">177.  2017-04-07 12:34:20 +0000    26861 bytes  test/unit/client/bundler/default.test.js</tspan>
+<tspan x="10" y="3146">178.  2017-04-07 12:34:20 +0000     5035 bytes  test/unit/client/bundler/index.test.js</tspan>
+<tspan x="10" y="3162">179.  2017-04-07 12:34:20 +0000      473 bytes  test/unit/client/clientIssue.test.js</tspan>
+<tspan x="10" y="3178">180.  2017-04-07 12:34:20 +0000     6513 bytes  test/unit/client/constants.test.js</tspan>
+<tspan x="10" y="3194">181.  2017-04-07 12:34:20 +0000    10962 bytes  test/unit/client/formatters.test.js</tspan>
+<tspan x="10" y="3210">182.  2017-04-07 12:34:20 +0000     1329 bytes  test/unit/client/formatters/css.test.js</tspan>
+<tspan x="10" y="3226">183.  2017-04-07 12:34:20 +0000     1613 bytes  test/unit/client/formatters/html.test.js</tspan>
+<tspan x="10" y="3242">184.  2017-04-07 12:34:20 +0000     1890 bytes  test/unit/client/formatters/javascript.test.js</tspan>
+<tspan x="10" y="3258">185.  2017-04-07 12:34:20 +0000      678 bytes  test/unit/client/http.test.js</tspan>
+<tspan x="10" y="3274">186.  2017-04-07 12:34:20 +0000    10218 bytes  test/unit/client/index.test.js</tspan>
+<tspan x="10" y="3290">187.  2017-04-07 12:34:20 +0000     2652 bytes  test/unit/client/live_reload.test.js</tspan>
+<tspan x="10" y="3306">188.  2017-04-07 12:34:20 +0000     6743 bytes  test/unit/client/pack.test.js</tspan>
+<tspan x="10" y="3322">189.  2017-04-07 12:34:20 +0000      258 bytes  test/unit/client/servePacked.test.js</tspan>
+<tspan x="10" y="3338">190.  2017-04-07 12:34:20 +0000     3352 bytes  test/unit/client/system/index.test.js</tspan>
+<tspan x="10" y="3354">191.  2017-04-07 12:34:20 +0000     3209 bytes  test/unit/client/system/modules/socketstream.tes\</tspan>
 <tspan x="10" y="3370">t.js</tspan>
-<tspan x="10" y="3386">192.  2017-04-07 12:32:41 +0000     4456 bytes  test/unit/client/template_engine.test.js</tspan>
-<tspan x="10" y="3402">193.  2017-04-07 12:32:41 +0000     7020 bytes  test/unit/client/template_engines/angular.test.j\</tspan>
+<tspan x="10" y="3386">192.  2017-04-07 12:34:20 +0000     4456 bytes  test/unit/client/template_engine.test.js</tspan>
+<tspan x="10" y="3402">193.  2017-04-07 12:34:20 +0000     7020 bytes  test/unit/client/template_engines/angular.test.j\</tspan>
 <tspan x="10" y="3418">s</tspan>
-<tspan x="10" y="3434">194.  2017-04-07 12:32:41 +0000     1684 bytes  test/unit/client/template_engines/default.test.j\</tspan>
+<tspan x="10" y="3434">194.  2017-04-07 12:34:20 +0000     1684 bytes  test/unit/client/template_engines/default.test.j\</tspan>
 <tspan x="10" y="3450">s</tspan>
-<tspan x="10" y="3466">195.  2017-04-07 12:32:41 +0000     1009 bytes  test/unit/client/template_engines/ember.test.js</tspan>
-<tspan x="10" y="3482">196.  2017-04-07 12:32:41 +0000     2705 bytes  test/unit/http/index.test.js</tspan>
-<tspan x="10" y="3498">197.  2017-04-07 12:32:41 +0000     3552 bytes  test/unit/publish/transport.test.js</tspan>
-<tspan x="10" y="3514">198.  2017-04-07 12:32:41 +0000     2435 bytes  test/unit/request/index.test.js</tspan>
-<tspan x="10" y="3530">199.  2017-04-07 12:32:41 +0000     3502 bytes  test/unit/request/middleware/internal.test.js</tspan>
-<tspan x="10" y="3546">200.  2017-04-07 12:32:41 +0000      169 bytes  test/unit/session/cookie.test.js</tspan>
-<tspan x="10" y="3562">201.  2017-04-07 12:32:41 +0000     2838 bytes  test/unit/socketstream.test.js</tspan>
-<tspan x="10" y="3578">202.  2017-04-07 12:32:41 +0000     2189 bytes  test/unit/tasks/index.test.js</tspan>
-<tspan x="10" y="3594">203.  2017-04-07 12:32:41 +0000      685 bytes  test/unit/test/test-socketstream.test.js</tspan>
-<tspan x="10" y="3610">204.  2017-04-07 12:32:41 +0000     5930 bytes  test/unit/utils/file.test.js</tspan>
-<tspan x="10" y="3626">205.  2017-04-07 12:32:41 +0000      968 bytes  test/unit/utils/log.test.js</tspan>
-<tspan x="10" y="3642">206.  2017-04-07 12:32:41 +0000     2800 bytes  test/unit/utils/misc.test.js</tspan>
-<tspan x="10" y="3658">207.  2017-04-07 12:32:41 +0000     2431 bytes  test/unit/utils/require.test.js</tspan>
-<tspan x="10" y="3674">208.  2017-04-07 12:32:41 +0000     2048 bytes  test/unit/utils/unique_set.test.js</tspan>
-<tspan x="10" y="3690">209.  2017-04-07 12:32:41 +0000      625 bytes  test/unit/websocket/transports/engineio/wrapper.\</tspan>
+<tspan x="10" y="3466">195.  2017-04-07 12:34:20 +0000     1009 bytes  test/unit/client/template_engines/ember.test.js</tspan>
+<tspan x="10" y="3482">196.  2017-04-07 12:34:20 +0000     2705 bytes  test/unit/http/index.test.js</tspan>
+<tspan x="10" y="3498">197.  2017-04-07 12:34:20 +0000     3552 bytes  test/unit/publish/transport.test.js</tspan>
+<tspan x="10" y="3514">198.  2017-04-07 12:34:20 +0000     2435 bytes  test/unit/request/index.test.js</tspan>
+<tspan x="10" y="3530">199.  2017-04-07 12:34:20 +0000     3502 bytes  test/unit/request/middleware/internal.test.js</tspan>
+<tspan x="10" y="3546">200.  2017-04-07 12:34:20 +0000      169 bytes  test/unit/session/cookie.test.js</tspan>
+<tspan x="10" y="3562">201.  2017-04-07 12:34:20 +0000     2838 bytes  test/unit/socketstream.test.js</tspan>
+<tspan x="10" y="3578">202.  2017-04-07 12:34:20 +0000     2189 bytes  test/unit/tasks/index.test.js</tspan>
+<tspan x="10" y="3594">203.  2017-04-07 12:34:20 +0000      685 bytes  test/unit/test/test-socketstream.test.js</tspan>
+<tspan x="10" y="3610">204.  2017-04-07 12:34:20 +0000     5930 bytes  test/unit/utils/file.test.js</tspan>
+<tspan x="10" y="3626">205.  2017-04-07 12:34:20 +0000      968 bytes  test/unit/utils/log.test.js</tspan>
+<tspan x="10" y="3642">206.  2017-04-07 12:34:20 +0000     2800 bytes  test/unit/utils/misc.test.js</tspan>
+<tspan x="10" y="3658">207.  2017-04-07 12:34:20 +0000     2431 bytes  test/unit/utils/require.test.js</tspan>
+<tspan x="10" y="3674">208.  2017-04-07 12:34:20 +0000     2048 bytes  test/unit/utils/unique_set.test.js</tspan>
+<tspan x="10" y="3690">209.  2017-04-07 12:34:20 +0000      625 bytes  test/unit/websocket/transports/engineio/wrapper.\</tspan>
 <tspan x="10" y="3706">test.js</tspan>
 </text>
 </svg>
